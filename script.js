@@ -11,7 +11,7 @@ function Fun1() {
     document.body.style.backgroundColor = "red";
   }
   function Fun5() {
-    document.body.style.backgroundColor = "black";
+    document.body.style.backgroundColor = "brown";
   }
 const form = document.querySelector('form');
 const list = document.getElementById('list');
